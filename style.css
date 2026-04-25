@@ -317,6 +317,7 @@ header {
     font-weight: 600;
     position: relative;
     cursor: pointer;
+    text-align : center;
     transition: 0.4s ease;
     border: 2px solid #2a2a2a;
 }
